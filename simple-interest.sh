@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Carina Young
+   # Carina Young- github username is carinawyoung
 
    # Input:
    # p, principal amount
